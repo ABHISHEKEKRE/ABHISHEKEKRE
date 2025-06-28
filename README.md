@@ -1,5 +1,24 @@
-<h2 align="left">Hi 👋! My name is Abhishek Ekre and I'm a Machine Learning Enthusiast & Full-Stack Web Developer, from India.</h2>
+<h2 align="left">Hi 👋! My name is Abhishek Ekre and I'm a Machine Learning Enthusiast & Full-Stack Web Developer.</h2>
 
+
+
+Machine Learning Enthusiast | Full-Stack Developer | AWS Certified Solution Architect
+
+I'm a passionate B.Tech student at Vellore Institute of Technology, specializing in Computer Science and Business Systems. My expertise lies in Machine Learning, Deep Learning, Web Development, and Cloud Computing. I love building innovative projects like movie recommendation platforms, NLP pipelines, and computer vision models. When I'm not coding, you can find me exploring the latest in AI !
+
+
+
+🌟 About Me
+
+
+
+
+
+🎓 Studying: B.Tech in Computer Science and Business Systems at VIT, Vellore (Graduating 2026)
+
+
+
+🔍 Interests: Machine Learning, Computer Vision, NLP, AWS Cloud Solutions, Full-Stack Development
 ###
 
 <div align="center">
