@@ -14,7 +14,7 @@ I'm a passionate B.Tech student at Vellore Institute of Technology, specializing
 
 
 
-🎓 Studying: B.Tech in Computer Science and Business Systems at VIT, Vellore (Graduating 2026)
+🎓 Studying: B.Tech in Computer Science and Business Systems at VIT, Vellore (Graduating 2026) (OPEN TO WORK)
 
 
 
