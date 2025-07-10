@@ -6,7 +6,7 @@ Machine Learning Enthusiast | Full-Stack Developer | AWS Certified Solution Arch
 
 I'm a passionate B.Tech student at Vellore Institute of Technology, specializing in Computer Science and Business Systems. My expertise lies in Machine Learning, Deep Learning, Web Development, and Cloud Computing. I love building innovative projects like movie recommendation platforms, NLP pipelines, and computer vision models. When I'm not coding, you can find me exploring the latest in AI !
 
-
+visit betyg.in my most recent as well as the best project that i have made till now (A machine learning full stack website deployed on AWS)
 
 🌟 About Me
 
